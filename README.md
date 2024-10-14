@@ -18,6 +18,8 @@ the project, that can help you tackle data analysis for many experimental pipeli
 - 😄 Try also our [FACEBOOK](https://www.facebook.com/ACTIONr.uth), [TWITTER/X](https://twitter.com/ACTIONr_) and [INSTAGRAM](https://www.instagram.com/actionr_/) accounts, where we post frequent updates and 
 newsletters
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This project has received funding from the European Union’s Horizon 2021-2027 research and innovation programme under grant agreement No 101079299.
 
 <!---
 ACTIONr-HZN2021/ACTIONr-HZN2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
