@@ -1,5 +1,6 @@
 - 👋 Hi, this is the profile for the ACTIONr project
 - 👀 ACTIONr is a research project funded by the EU, under HORIZON-WIDERA-2021-ACCESS-03
+- 📅 The ACTIONr project will be running from November 2022 until October 2025
 - ⚡ Fun fact: Did you know that 50-70% of the nitrogen applied in the fields through fertilisation is lost as nitrate and N-oxides, raising agricultural production costs and contributing to environmental pollution 
 and climate change?
 - 🎯 The ultimate goal of ACTIONr is to establish new tools and pathways to optimise Nitrogen Use Efficiency, decelerate the nitrogen cycle and decrease the environmental footprint of reactive nitrogen
