@@ -15,7 +15,7 @@ diverse set of DEC measures directed towards the scientific community, potential
 - 🖥️ This github profile is a part of the ACTIONr educational/scientific platform, where we provide technical or theoretical educational and/or scientific material, produced through the training and technology 
 transfer activities of the project, as well as links to other relevant platforms and material. In this profile, you can find repositories with coding scripts and tutorials developed by members and affiliates of 
 the project, that can help you tackle data analysis for many experimental pipelines relative to ammonia oxidisers and nitrification inhibitors  
-- 📫 You can always reach us by [EMAIL](actionr@uth.gr) 
+- 📫 You can always reach us by email at actionr@uth.gr 
 - 😄 Try also our [FACEBOOK](https://www.facebook.com/ACTIONr.uth), [TWITTER/X](https://twitter.com/ACTIONr_) and [INSTAGRAM](https://www.instagram.com/actionr_/) accounts, where we post frequent updates and 
 newsletters
 
