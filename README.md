@@ -5,8 +5,8 @@ and climate change?
 - 🎯 The ultimate goal of ACTIONr is to establish new tools and pathways to optimise Nitrogen Use Efficiency, decelerate the nitrogen cycle and decrease the environmental footprint of reactive nitrogen
 - 🧪 ACTIONr aims to investigate the complex interactions of nitrification inhibitors (NIs) with nitrogen cycling microbial players at different experimental scales, from in vitro assays with single organisms, to 
 synthetic microbial communities of nitrifiers and eventually to natural soil microbial assemblages. Its research objectives are:
-a) to identify the mode of action of NIs at cellular level 
-b) to develop and use synthetic microbial communities of nitrifiers as an ecologically relevant tool for NI activity screening  
+a) to identify the mode of action of NIs at cellular level
+b) to develop and use synthetic microbial communities of nitrifiers as an ecologically relevant tool for NI activity screening
 c) to develop experimental tools to assess the activity and effects of NIs on ammonia oxidising microorganisms and off target microorganisms participating or not in N cycling, as well as to address the reciprocal 
 effects on greenhouse gas emissions
 d) to gather all experimental data in support of the development and validation of novel, safer and more efficient NIs
