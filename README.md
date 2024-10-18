@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4edf7c0b-82ba-4139-9f34-7e397e96436b)
+
+
 - 👋 Hi, this is the profile for the ACTIONr project
 - 👀 ACTIONr (Research Action Network for Reducing Reactive Nitrogen Losses from Agricultural Ecosystems) is a research project funded by the EU, under HORIZON-WIDERA-2021-ACCESS-03
 - 📅 The ACTIONr project will be running from November 2022 until October 2025
