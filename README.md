@@ -16,11 +16,12 @@ diverse set of DEC measures directed towards the scientific community, potential
 transfer activities of the project, as well as links to other relevant platforms and material. In this profile, you can find repositories with coding scripts and tutorials developed by members and affiliates of 
 the project, that can help you tackle data analysis for many experimental pipelines relative to ammonia oxidisers and nitrification inhibitors  
 - 📫 You can always reach us by email at actionr@uth.gr 
-- 😄 Try also our [FACEBOOK](https://www.facebook.com/ACTIONr.uth), [TWITTER/X](https://twitter.com/ACTIONr_) and [INSTAGRAM](https://www.instagram.com/actionr_/) accounts, where we post frequent updates and 
-newsletters
+- 😄 Try also our [FACEBOOK](https://www.facebook.com/ACTIONr.uth), [TWITTER/X](https://twitter.com/ACTIONr_), [INSTAGRAM](https://www.instagram.com/actionr_/) and [LINKEDIN](https://www.linkedin.com/company/actionr-university-of-thessaly-universit%C3%A4t-wien-%C3%A9cole-centrale-de-lyon/posts/?feedView=all) accounts, where we post frequent updates and newsletters
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project has received funding from the European Union’s Horizon 2021-2027 research and innovation programme under grant agreement No 101079299.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!---
 ACTIONr-HZN2021/ACTIONr-HZN2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
