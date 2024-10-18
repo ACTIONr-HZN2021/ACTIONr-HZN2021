@@ -26,6 +26,8 @@ This project has received funding from the European Union’s Horizon 2021-2027 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/98bbd725-f017-4b81-9855-513c5d6fbcc3)
+
 <!---
 ACTIONr-HZN2021/ACTIONr-HZN2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
